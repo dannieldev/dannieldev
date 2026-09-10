@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Daniel 👋
 
-<!--
-**dannieldev/dannieldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Web & Especialista en Infraestructura y Automatización. Me enfoco en crear soluciones digitales escalables, arquitecturas cloud eficientes e integraciones de automatización e IA.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Áreas de Enfoque
+
+* **Web Development & CMS:** Desarrollo frontend y soluciones personalizadas en WordPress, Webflow y Framer.
+* **Infraestructura & Servidores:** Administración de entornos Linux VPS (Ubuntu), cPanel, redes privadas y seguridad DNS.
+* **Tracking & Analítica Avanzada:** Implementación de arquitecturas de medición con Meta CAPI, Google Tag Manager y Server-Side Tracking.
+* **Automatización & IA:** Flujos de trabajo automatizados, arquitecturas Local-First y orquestación de modelos de lenguaje.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+* **Frontend & Web:** HTML5, CSS3, JavaScript, WordPress, Elementor, Webflow, Framer
+* **Cloud & DevOps:** Linux (Ubuntu), cPanel, Nginx/Apache, Git, Tailscale, Cloudflare
+* **Medición & Marketing:** Google Tag Manager, Google Analytics, Meta Conversions API (CAPI)
+
+---
+
+### 🌐 Conecta Conmigo
